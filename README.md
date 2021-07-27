@@ -1,6 +1,8 @@
 ### Hi there, I'm आर्या पाटील 👋
 
-I am a PhD candidate in Astronomy & Astrophysics at the University of Toronto 🔭  I perform large-scale Data Driven studies to understand how the Milky Way formed and evolved 🌌  Prior to this, I earned a Bachelor's Degree in Computer Engineering 💻  and entered the exciting world of open source software development through Google Summer of Code 2017 with Astropy. I am now a voting member of Astropy.
+I am a PhD candidate in Astronomy & Astrophysics at the University of Toronto 🔭 
+I perform large-scale Data Driven studies to understand how the Milky Way formed and evolved 🌌 
+Prior to this, I earned a Bachelor's Degree in Computer Engineering and entered the exciting world of open source software development through Google Summer of Code 2017 with Astropy. I am now a voting member of Astropy 💻
 
 - 💬  Ask me about stars, coding, statistics and open science
 - 📫  How to reach me: Please send an e-mail to patil@astro.utoronto.ca
